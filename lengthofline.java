@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class lengthofline {
+	
 	public static void main(String[] args) {
 		System.out.println("Calculate Length Of Line: ");
 
